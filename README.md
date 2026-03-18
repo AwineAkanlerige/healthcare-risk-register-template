@@ -3,7 +3,9 @@
 A healthcare-focused risk register template covering clinical, operational, information security, privacy, and vendor/third-party risks. Includes risk scoring, controls/mitigations, owners, and status tracking.
 
 **Download:**
-- [Healthcare_Risk_Register_Awine_final.xlsx]([docs/Healthcare_Risk_Register_Awine_final.xlsx](https://github.com/AwineAkanlerige/healthcare-risk-register-template/blob/be3a2e59a7bdbf00b9568027584c46570a2a844d/docs/Healthcare_Risk_Register_Awine_final.xlsx)
+- [Healthcare_Risk_Register_Awine_final.xlsx](https://github.com/AwineAkanlerige/healthcare-risk-register-template/blob/be3a2e59a7bdbf00b9568027584c46570a2a844d/docs/Healthcare_Risk_Register_Awine_final.xlsx)
+
+-  [Direct download](PASTE_RAW_LINK_HERE)
 
 **How to use:**
 - Add risks as they are identified and keep owners + due dates current.
